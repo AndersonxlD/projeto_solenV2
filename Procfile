@@ -1,1 +1,1 @@
-web: gunicorn projeto_solenv2.wsgi --log-file -
+web: gunicorn projecto_solenV2.wsgi --log-file-
