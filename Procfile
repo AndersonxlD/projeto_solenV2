@@ -1,0 +1,1 @@
+web: gunicorn projeto_solenv2.wsgi --log-file -
